@@ -6,7 +6,7 @@ form button { width: 9%; background: rgb(130, 224, 255); border: none; padding: 
 #messages { list-style-type: none; margin: 0; padding: 0; }
 #messages li { padding: 5px 10px; }
 #messages li:nth-child(odd) { background: #eee; }
-#title_news { width: 100%; background-color: rgb(0, 120, 185); }
+#title_news { width: 100%; background-color: rgb(0, 120, 185); opacity: 1.0; }
 #msgsend { width: 100%; }
 #title { color: rgb(300, 100, 100); }
 .scroll-row {
